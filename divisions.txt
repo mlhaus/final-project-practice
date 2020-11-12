@@ -1,0 +1,3 @@
+1001,Industrial
+1003,Agricultural
+1005,Residential

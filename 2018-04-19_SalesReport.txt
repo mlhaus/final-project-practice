@@ -1,0 +1,93 @@
+
+2018-04-19                                                       Page: 1
+                                  SALES REPORT
+
+                       NAME                       |     TOTAL     |     AVERAGE    
+--------------------------------------------------------------------------------
+** DIVISION: Industrial **
+Apple, Angela                                          22,824.81        2,853.10
+Apricot, Anthony                                       22,206.41        3,701.07
+Elderberry, Eric                                       24,758.02        3,094.75
+Jabouticaba, Kelly                                     19,041.15        2,380.14
+Lemon, Mark                                            19,919.91        2,489.99
+
+--------------------------------------------------------------------------------
+** Division Total - Industrial                        108,750.30
+
+
+** DIVISION: Agricultural **
+Banana, Brenda                                          2,177.68        1,088.84
+Bilberry, Brian                                        15,534.73        3,106.95
+Blackberry, Charles                                    22,230.63        2,470.07
+Blackcurrant, Cheryl                                   18,289.58        2,032.18
+Blueberry, Christine                                   12,821.81        2,564.36
+Boysenberry, Christopher                                5,104.51        1,701.50
+Cantaloupe, Cynthia                                    26,991.94        2,699.19
+Currant, Daniel                                        20,358.20        2,544.77
+Cherry, David                                           5,141.17        2,570.59
+Cherimoya, Deborah                                      3,037.76        1,518.88
+Cloudberry, Debra                                      10,618.23        2,123.65
+Coconut, Denise                                        17,438.64        2,491.23
+Cranberry, Donald                                       4,984.48        4,984.48
+Damson, Donna                                          12,962.84        2,592.57
+Date, Douglas                                           3,949.05        1,974.52
+Dragonfruit, Edward                                     5,800.40        1,450.10
+Durian, Elizabeth                                      14,957.12        2,991.42
+Feijoa, Gary                                            4,667.24        4,667.24
+Fig, Gregory                                            7,173.82        1,793.45
+Gojiberry, James                                       21,349.85        3,049.98
+Gooseberry, Jeffrey                                     1,515.04          757.52
+Grape, Jennifer                                        21,585.02        2,398.34
+Raisin, John                                           13,990.56        2,331.76
+
+2018-04-19                                                       Page: 2
+                                  SALES REPORT
+
+                       NAME                       |     TOTAL     |     AVERAGE    
+--------------------------------------------------------------------------------
+Grapefruit, Joseph                                     24,881.14        2,764.57
+Guava, Julie                                            4,683.23        2,341.62
+Huckleberry, Karen                                     21,382.01        2,375.78
+Jambul, Kevin                                           7,786.13        3,893.06
+Jujube, Kimberly                                       17,373.06        1,930.34
+Juniperberry, Laura                                    16,948.82        1,694.88
+Kiwifruit, Linda                                       16,237.86        2,319.69
+Kumquat, Lori                                          10,120.81        3,373.60
+Loquat, Michelle                                        9,627.75        1,604.62
+Lychee, Nancy                                           6,804.82        1,360.96
+Mango, Pamela                                           3,822.50        1,911.25
+Marionberry, Patricia                                  14,985.68        2,497.61
+Melon, Paul                                            20,105.10        3,350.85
+Cantaloupe, Richard                                    26,611.97        3,326.50
+Honeydew, Robert                                       14,675.97        3,668.99
+Watermelon, Ronald                                     31,256.43        3,125.64
+Miraclefruit, Sandra                                   18,973.19        2,108.13
+Mulberry, Scott                                        10,490.64        1,748.44
+Nectarine, Sharon                                       3,895.42        1,947.71
+BloodOrange, Susan                                     13,809.83        3,452.46
+Clementine, Tammy                                      11,505.07        2,301.01
+Mandarine, Teresa                                      21,115.49        3,016.50
+Tangerine, Thomas                                      19,907.33        2,488.42
+Papaya, Timothy                                         9,557.88        1,911.58
+
+--------------------------------------------------------------------------------
+** Division Total - Agricultural                      629,238.43
+
+
+** DIVISION: Residential **
+Avocado, Barbara                                       13,626.86        1,946.69
+Jackfruit, Kenneth                                     18,441.87        2,305.23
+Lime, Mary                                             22,662.54        2,266.25
+Olive, Stephen                                          4,855.10        2,427.55
+Orange, Steven                                         22,699.11        2,837.39
+
+--------------------------------------------------------------------------------
+** Division Total - Residential                        82,285.48
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+*** Report Total                                      820,274.21
+
+
