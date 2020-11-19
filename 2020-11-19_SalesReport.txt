@@ -1,8 +1,8 @@
 
-2018-04-19                                                       Page: 1
+2020-11-19                                                       Page: 1
                                   SALES REPORT
 
-                       NAME                       |     TOTAL     |     AVERAGE    
+                       NAME                       |     TOTAL     |     AVERAGE
 --------------------------------------------------------------------------------
 ** DIVISION: Industrial **
 Apple, Angela                                          22,824.81        2,853.10
@@ -15,6 +15,11 @@ Lemon, Mark                                            19,919.91        2,489.99
 ** Division Total - Industrial                        108,750.30
 
 
+2020-11-19                                                       Page: 2
+                                  SALES REPORT
+
+                       NAME                       |     TOTAL     |     AVERAGE
+--------------------------------------------------------------------------------
 ** DIVISION: Agricultural **
 Banana, Brenda                                          2,177.68        1,088.84
 Bilberry, Brian                                        15,534.73        3,106.95
@@ -39,12 +44,6 @@ Gojiberry, James                                       21,349.85        3,049.98
 Gooseberry, Jeffrey                                     1,515.04          757.52
 Grape, Jennifer                                        21,585.02        2,398.34
 Raisin, John                                           13,990.56        2,331.76
-
-2018-04-19                                                       Page: 2
-                                  SALES REPORT
-
-                       NAME                       |     TOTAL     |     AVERAGE    
---------------------------------------------------------------------------------
 Grapefruit, Joseph                                     24,881.14        2,764.57
 Guava, Julie                                            4,683.23        2,341.62
 Huckleberry, Karen                                     21,382.01        2,375.78
@@ -69,11 +68,17 @@ Clementine, Tammy                                      11,505.07        2,301.01
 Mandarine, Teresa                                      21,115.49        3,016.50
 Tangerine, Thomas                                      19,907.33        2,488.42
 Papaya, Timothy                                         9,557.88        1,911.58
+Passionfruit, William                                   6,102.77        2,034.26
 
 --------------------------------------------------------------------------------
-** Division Total - Agricultural                      629,238.43
+** Division Total - Agricultural                      635,341.20
 
 
+2020-11-19                                                       Page: 3
+                                  SALES REPORT
+
+                       NAME                       |     TOTAL     |     AVERAGE
+--------------------------------------------------------------------------------
 ** DIVISION: Residential **
 Avocado, Barbara                                       13,626.86        1,946.69
 Jackfruit, Kenneth                                     18,441.87        2,305.23
@@ -88,6 +93,6 @@ Orange, Steven                                         22,699.11        2,837.39
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-*** Report Total                                      820,274.21
+*** Report Total                                      826,376.98
 
 
